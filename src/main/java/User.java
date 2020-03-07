@@ -15,6 +15,4 @@ public class User {
     private String address;
     private String colour;
     private String big;
-    private String country;
-    private String high;
 }
