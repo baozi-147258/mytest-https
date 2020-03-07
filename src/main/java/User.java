@@ -13,6 +13,8 @@ public class User {
     private Date birthday;
     private String sex;
     private String address;
+    private String colour;
+    private String big;
     private String country;
     private String high;
 }
