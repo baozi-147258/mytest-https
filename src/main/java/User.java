@@ -8,7 +8,7 @@ import java.util.Date;
  * @Version 1.0
  **/
 public class User {
-    private String name;
+    private String id;
     private String name;
     private Date birthday;
     private String sex;
